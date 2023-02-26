@@ -1,0 +1,8 @@
+com\wazzup\common\CommonApplication.class
+com\wazzup\common\entity\Parameter.class
+com\wazzup\common\exception\ParameterNotFoundException.class
+com\wazzup\common\repository\ParameterRepository.class
+com\wazzup\common\controller\ParameterController.class
+com\wazzup\common\service\ParameterService.class
+com\wazzup\common\dto\ParameterDTO.class
+com\wazzup\common\enums\ParameterCodeE.class

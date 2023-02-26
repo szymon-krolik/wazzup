@@ -1,0 +1,4 @@
+com\wazzup\user\controller\UserControllerTest.class
+com\wazzup\user\service\UserServiceTest.class
+com\wazzup\UserServiceApplicationTests.class
+com\wazzup\utils\TestUtils.class

@@ -1,0 +1,3 @@
+/eventAPI/user-service/src/main/resources/application.properties
+/eventAPI/notification-service/src/main/resources/application.properties
+/eventAPI/common-service/src/main/resources/application.properties

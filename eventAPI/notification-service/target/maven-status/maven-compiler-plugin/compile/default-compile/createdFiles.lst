@@ -1,0 +1,3 @@
+com\wazzup\notificationservice\dto\notification\CreateAccountDTO.class
+com\wazzup\notificationservice\NotificationServiceApplication.class
+com\wazzup\notificationservice\service\EmailService.class

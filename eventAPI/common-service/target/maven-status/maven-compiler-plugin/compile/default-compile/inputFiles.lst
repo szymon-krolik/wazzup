@@ -1,0 +1,8 @@
+D:\event\eventAPI\common-service\src\main\java\com\wazzup\common\service\ParameterService.java
+D:\event\eventAPI\common-service\src\main\java\com\wazzup\common\controller\ParameterController.java
+D:\event\eventAPI\common-service\src\main\java\com\wazzup\common\enums\ParameterCodeE.java
+D:\event\eventAPI\common-service\src\main\java\com\wazzup\common\repository\ParameterRepository.java
+D:\event\eventAPI\common-service\src\main\java\com\wazzup\common\CommonApplication.java
+D:\event\eventAPI\common-service\src\main\java\com\wazzup\common\exception\ParameterNotFoundException.java
+D:\event\eventAPI\common-service\src\main\java\com\wazzup\common\entity\Parameter.java
+D:\event\eventAPI\common-service\src\main\java\com\wazzup\common\dto\ParameterDTO.java
